@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Our attraction</string>
+    <string name="attraction">Our Attraction</string>
+    <string name="title">Name</string>
+    <string name="enterTitle">Enter the name of attraction here</string>
+    <string name="description">Description</string>
+    <string name="enterDescription">Enter the description of the attraction here</string>
+    <string name="location">Location</string>
+    <string name="enterLocation">Enter the location of the attraction here</string>
+    <string name="rating">Thrilling level</string>
+    <string name="insert">Insert</string>
+    <string name="showList">Show List</string>
+    <string name="showAllThrillingAttraction">Show all thrilling attraction</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="id">ID</string>
+</resources>
